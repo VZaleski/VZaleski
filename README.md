@@ -54,10 +54,10 @@
 
 ## About Me
 
-Hello, my name is Vladimir. I'm 23 years old. I live now in Minsk, Belarus. I am Software Engineer.
+Hello, my name is Vladimir. I'm 23 years old. I live now in Minsk, Belarus. I am Software Engineer.<br>
 I graduated a faculty of computer systems and networks from Belarusian State University of Informatics and Radioelectronics 2 years ago and am currently attending the RSSchool frontend course. I learned the basic knowledge of programming at the university. I learned languages like C, Assembly Language, VHDL, Matlab.
-How did I decide to become a frontend developer? I initially entered the university without a specific goal. Students in my department study circuit board design, microcontroller programming, and digital system design. In the 4th year of university, I was introduced to web programming. Then I realized that I want to develop in this direction. A friend advised me to take RSS courses.
-What do I like about programming?
+How did I decide to become a frontend developer? I initially entered the university without a specific goal. Students in my department study circuit board design, microcontroller programming, and digital system design. In the 4th year of university, I was introduced to web programming. Then I realized that I want to develop in this direction. A friend advised me to take RSS courses.<br>
+What do I like about programming?<br>
 I like to solve algorithmic and mathematical problems, so I like to program.
 I am taking RSS courses for the second time. For the first time, I took the course to the very end.
 I can tell you about the most recent task that is performed in the team. Our team consisted of 4 people. Our Goal: Make a clone of the Trello app. Trello is a team work service that allows you to plan and publish current tasks, organize them, and monitor their execution. It is based on the Japanese kanban board system – a convenient tool for organizing work. I was responsible for the following app features:
