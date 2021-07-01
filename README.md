@@ -7,21 +7,6 @@
 
 ---
 
-## My skills
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>NodeJs Basics</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Git</li>
-  <li>Webpack</li>
-  <li>C/C++</li>
-  <li>VHDL</li>
-</ul>
-
----
-
 ## Projects
 <ul>
   <li><a href="https://yupodd-trelloclone.netlify.app/">Trello Clone</a></li>
@@ -35,6 +20,21 @@
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/match-match-game/dist/">Match-match-game</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/gem-puzzle/">Gem-puzzle</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/shelter/pages/main/main.html">Shelter</a></li>
+</ul>
+
+---
+
+## My skills
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>NodeJs Basics</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Git</li>
+  <li>Webpack</li>
+  <li>C/C++</li>
+  <li>VHDL</li>
 </ul>
 
 ---
