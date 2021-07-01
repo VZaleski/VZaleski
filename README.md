@@ -50,6 +50,8 @@
   <li>Deutsch Grundstufe 2(А2)</li>
 </ul>
 
+---
+
 ## About Me
 
 Hello, my name is Vladimir. I'm 23 years old. I live now in Minsk, Belarus. I am Software Engineer.
@@ -66,7 +68,7 @@ The main technical difficulties were:
 - configuring webpack, i.e. incorporation of assets
 - drag and drop realization
 - binding boards and lists
-- backend realization
+- backend realization<br>
 Each member of the team made a huge contribution to our final project and as a result we received the maximum score. We also wrote an article about our app on the medium portal and made a video about how our app works.
 This project was a cool learning exercise to sharpen skills and a wonderful oppotunity to work with others as a team. Thanks for your attention.
    
