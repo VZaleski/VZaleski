@@ -10,7 +10,17 @@
 
 ## My skills
 
-  JavaScript<br>TypeScript<br>NodeJs Basics<br>HTML5<br>CSS3<br>Git<br>Webpack<br>C/C++<br>VHDL<br>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>NodeJs Basics</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Git</li>
+  <li>Webpack</li>
+  <li>C/C++</li>
+  <li>VHDL</li>
+</ul>
 
 ## Education
 
