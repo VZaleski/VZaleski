@@ -42,7 +42,6 @@
 ## Education
   * Mogilev state regional Lyceum No. 3 (2015)
   * Belarusian state University of Informatics and Radioelectronics (2019)
-  * 
 ---
 
  ## Languages
