@@ -22,6 +22,23 @@
   <li>VHDL</li>
 </ul>
 
+## Projects
+
+<ul>
+  <li><a href="https://yupodd-trelloclone.netlify.app/">Trello Clone</a></li>
+  <li><a href="https://vzaleski-covid-dashboard.netlify.app/">Covid-dashboard</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/photo-filter/">Photo-filter</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/virtual-piano/">Virtual-piano</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/virtual-keyboard/"></a>Virtual-keyboard</li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/calculator/"></a>Calculator</li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/Momentum/">Momentum</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/online-zoo/pages/landing/landing.html">Online-zoo</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/match-match-game/dist/">Match-match-game</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/gem-puzzle/">Gem-puzzle</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/shelter/pages/main/main.html">Shelter</a></li>
+</ul>
+
+
 ## Education
 
   1. Mogilev state regional Lyceum No. 3 (2015)<br>
