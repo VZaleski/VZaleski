@@ -29,8 +29,8 @@
   <li><a href="https://vzaleski-covid-dashboard.netlify.app/">Covid-dashboard</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/photo-filter/">Photo-filter</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/virtual-piano/">Virtual-piano</a></li>
-  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/virtual-keyboard/"></a>Virtual-keyboard</li>
-  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/calculator/"></a>Calculator</li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/virtual-keyboard/">Virtual-keyboard</a></li>
+  <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/calculator/">Calculator</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/Momentum/">Momentum</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/online-zoo/pages/landing/landing.html">Online-zoo</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/match-match-game/dist/">Match-match-game</a></li>
