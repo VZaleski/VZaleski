@@ -5,6 +5,7 @@
   <li><a href="https://www.codewars.com/users/VZaleski">Codewars</a></li>
 </ul>
 ---
+
 ## My skills
 <ul>
   <li>JavaScript</li>
@@ -18,6 +19,7 @@
   <li>VHDL</li>
 </ul>
 ---
+
 ## Projects
 <ul>
   <li><a href="https://yupodd-trelloclone.netlify.app/">Trello Clone</a></li>
@@ -33,10 +35,12 @@
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/shelter/pages/main/main.html">Shelter</a></li>
 </ul>
 ---
+
 ## Education
   * Mogilev state regional Lyceum No. 3 (2015)
   * Belarusian state University of Informatics and Radioelectronics (2019)
 ---
+
  ## Languages
  <ul>
   <li>English Elementary(А1)</li>
