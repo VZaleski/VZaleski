@@ -65,10 +65,10 @@ I can tell you about the most recent task that is performed in the team. Our tea
 2) Adding, editing the description by the task creator
 3) The ability to leave comments under a specific task to other users.
 The main technical difficulties were:
-- configuring webpack, i.e. incorporation of assets
-- drag and drop realization
-- binding boards and lists
-- backend realization<br>
+  -- configuring webpack, i.e. incorporation of assets
+  -- drag and drop realization
+  -- binding boards and lists
+  -- backend realization<br>
 Each member of the team made a huge contribution to our final project and as a result we received the maximum score. We also wrote an article about our app on the medium portal and made a video about how our app works.
 This project was a cool learning exercise to sharpen skills and a wonderful oppotunity to work with others as a team. Thanks for your attention.
    
