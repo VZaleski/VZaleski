@@ -27,5 +27,10 @@
   1. Mogilev state regional Lyceum No. 3 (2015)<br>
   2. Belarusian state University of Informatics and Radioelectronics (2019)<br>
  
- ## English
-    Pre-intermediate (А2)
+ ## Languages
+ 
+ <ul>
+  <li>English Elementary(А1)</li>
+  <li>Deutsch Grundstufe 2(А2)</li>
+</ul>
+   
