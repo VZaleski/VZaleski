@@ -4,9 +4,7 @@
   <li><a href="https://t.me/zaleski_vladimir">Telegram | https://t.me/zaleski_vladimir</a></li>
   <li><a href="https://www.codewars.com/users/VZaleski">Codewars</a></li>
 </ul>
-
 ---
-
 ## My skills
 <ul>
   <li>JavaScript</li>
@@ -19,7 +17,7 @@
   <li>C/C++</li>
   <li>VHDL</li>
 </ul>
-___
+---
 ## Projects
 <ul>
   <li><a href="https://yupodd-trelloclone.netlify.app/">Trello Clone</a></li>
@@ -34,11 +32,11 @@ ___
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/gem-puzzle/">Gem-puzzle</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JS2020Q3/shelter/pages/main/main.html">Shelter</a></li>
 </ul>
-___
+---
 ## Education
   * Mogilev state regional Lyceum No. 3 (2015)
   * Belarusian state University of Informatics and Radioelectronics (2019)
-___
+---
  ## Languages
  <ul>
   <li>English Elementary(А1)</li>
