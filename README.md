@@ -3,9 +3,9 @@
 ## Contacts <br>
 
 <ul>
-  <li>Mobile phone: +375(33)627-86-58 (МТС)</li>
-  <li>Email: zaleski.vladimir@gmail.com</li>
-  <li>Telegram: https://t.me/zaleski_vladimir</li>
+  <li><a href="tel:+375(33)627-86-58">Mobile Phone</a></li>
+  <li><a href="mailto:zaleski.vladimir@gmail.com">zaleski.vladimir@gmail.com</a></li>
+  <li><a href="https://t.me/zaleski_vladimir">Telegram | https://t.me/zaleski_vladimir</a></li>
 </ul>
 
 ## My skills
