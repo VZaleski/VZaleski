@@ -26,6 +26,7 @@
 
 ## My skills
 <ul>
+  <li>React</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>NodeJs Basics</li>
