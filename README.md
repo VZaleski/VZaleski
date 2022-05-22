@@ -47,7 +47,7 @@
 
  ## Languages
  <ul>
-  <li>English Elementary(А1)</li>
+  <li>English Pre-Intermediate(А2)</li>
   <li>Deutsch Grundstufe 2(А2)</li>
 </ul>
 
