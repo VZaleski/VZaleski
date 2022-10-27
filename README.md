@@ -36,6 +36,7 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Git</li>
+  <li>Mercurial</li>
   <li>Webpack</li>
   <li>C/C++</li>
   <li>VHDL</li>
