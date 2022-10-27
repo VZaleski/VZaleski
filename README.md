@@ -9,6 +9,7 @@
 
 ## Projects
 <ul>
+  <li><a href="https://vzaleski-startup-summer.netlify.app/">Github Search</a></li>
   <li><a href="https://yupodd-trelloclone.netlify.app/">Trello Clone</a></li>
   <li><a href="https://vzaleski-covid-dashboard.netlify.app/">Covid-dashboard</a></li>
   <li><a href="https://rolling-scopes-school.github.io/vzaleski-JSFE2021Q1/photo-filter/">Photo-filter</a></li>
@@ -29,6 +30,8 @@
   <li>React</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
+  <li>JQuery</li>
+  <li>Backbone.js</li>
   <li>NodeJs Basics</li>
   <li>HTML5</li>
   <li>CSS3</li>
