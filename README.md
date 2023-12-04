@@ -33,11 +33,13 @@
   <li>JQuery</li>
   <li>Backbone.js</li>
   <li>NodeJs Basics</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
+  <li>HTML</li>
+  <li>CSS/SCCS</li>
+  <li>Webpack</li>
+  <li>Storybook</li>
+  <li>Jest</li>
   <li>Git</li>
   <li>Mercurial</li>
-  <li>Webpack</li>
   <li>C/C++</li>
   <li>VHDL</li>
 </ul>
@@ -59,7 +61,7 @@
 
 ## About Me
 
-Hello, my name is Vladimir. I'm 23 years old. I live now in Minsk, Belarus. I am Software Engineer.<br>
+Hello, my name is Vladimir. I'm 26 years old. I live now in Minsk, Belarus. I am Software Engineer.<br>
 I graduated a faculty of computer systems and networks from Belarusian State University of Informatics and Radioelectronics 2 years ago and am currently attending the RSSchool frontend course. I learned the basic knowledge of programming at the university. I learned languages like C, Assembly Language, VHDL, Matlab.
 How did I decide to become a frontend developer? I initially entered the university without a specific goal. Students in my department study circuit board design, microcontroller programming, and digital system design. In the 4th year of university, I was introduced to web programming. Then I realized that I want to develop in this direction. A friend advised me to take RSS courses.<br>
 What do I like about programming?<br>
