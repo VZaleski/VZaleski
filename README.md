@@ -61,22 +61,14 @@
 
 ## About Me
 
-Hello, my name is Vladimir. I'm 26 years old. I live now in Minsk, Belarus. I am Software Engineer.<br>
-I graduated a faculty of computer systems and networks from Belarusian State University of Informatics and Radioelectronics 2 years ago and am currently attending the RSSchool frontend course. I learned the basic knowledge of programming at the university. I learned languages like C, Assembly Language, VHDL, Matlab.
-How did I decide to become a frontend developer? I initially entered the university without a specific goal. Students in my department study circuit board design, microcontroller programming, and digital system design. In the 4th year of university, I was introduced to web programming. Then I realized that I want to develop in this direction. A friend advised me to take RSS courses.<br>
-What do I like about programming?<br>
-I like to solve algorithmic and mathematical problems, so I like to program.
-I am taking RSS courses for the second time. For the first time, I took the course to the very end.
-I can tell you about the most recent task that is performed in the team. Our team consisted of 4 people. Our Goal: Make a clone of the Trello app. Trello is a team work service that allows you to plan and publish current tasks, organize them, and monitor their execution. It is based on the Japanese kanban board system – a convenient tool for organizing work. I was responsible for the following app features:
-1) Add, delete, and edit the task list
-2) Adding, editing the description by the task creator
-3) The ability to leave comments under a specific task to other users.
-The main technical difficulties were:
-  - configuring webpack, i.e. incorporation of assets
-  - drag and drop realization
-  - binding boards and lists
-  - backend realization<br>
- 
-Each member of the team made a huge contribution to our final project and as a result we received the maximum score. We also wrote an article about our app on the medium portal and made a video about how our app works.
-This project was a cool learning exercise to sharpen skills and a wonderful oppotunity to work with others as a team. Thanks for your attention.
-   
+Front end developer with more than 2 years of experience in developing commercial IT projects.
+We have been developing in JS for over 2 years.
+Maximum experience with React.js - 2 years
+Less with Node.js, Next.js
+
+From the very beginning, I developed web applications in JS.
+
+My strong point:
+- Experience in creating projects from scratch and bringing them to production, cleaning up legacy,
+- Hands-on experience in creating and implementing features from scratch, from ideas to deployment to production environments, and meeting stakeholder business requirements.
+- Good interpersonal skills and high ethical standards, the ability to solve technical and communication issues help me to be a valuable part of the team.
